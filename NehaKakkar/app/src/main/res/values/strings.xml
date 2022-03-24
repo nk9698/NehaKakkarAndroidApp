@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Neha Kakkar</string>
+    <string name="tab_text_1">Video Song</string>
+    <string name="tab_text_2">Images</string>
+    <string name="video_song">Video Song</string>
+    <string name="images">Images</string>
+
+    <string name="failed">Failed to initialize Youtube Player</string>
+</resources>
